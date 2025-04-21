@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE\\PROG6221POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35188042-757C-4B44-9868-D220D01676DA}|PROG6221POE.csproj|c:\\users\\lab_services_student\\desktop\\prog6221poe\\prog6221poe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35188042-757C-4B44-9868-D220D01676DA}|PROG6221POE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35188042-757C-4B44-9868-D220D01676DA}|PROG6221POE.csproj|c:\\users\\lab_services_student\\desktop\\prog6221poe\\prog6221poe\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35188042-757C-4B44-9868-D220D01676DA}|PROG6221POE.csproj|solutionrelative:bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35188042-757C-4B44-9868-D220D01676DA}|PROG6221POE.csproj|c:\\users\\lab_services_student\\desktop\\prog6221poe\\prog6221poe\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35188042-757C-4B44-9868-D220D01676DA}|PROG6221POE.csproj|solutionrelative:ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE\\PROG6221POE\\UI.cs",
+              "RelativeDocumentMoniker": "UI.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE\\PROG6221POE\\UI.cs",
+              "RelativeToolTip": "UI.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:13:36.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE\\PROG6221POE\\Bot.cs",
+              "RelativeDocumentMoniker": "Bot.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE\\PROG6221POE\\Bot.cs",
+              "RelativeToolTip": "Bot.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:12:28.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE\\PROG6221POE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221POE\\PROG6221POE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T17:10:40.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
