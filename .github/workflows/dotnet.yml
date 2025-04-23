@@ -20,8 +20,10 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
+    - name: Restore dependencies 
+      run: dotnet restore PROG6221POE/PROG6221POE.csproj
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build PROG6221POE/PROG6221POE.csproj --no-restore
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test PROG6221POE/PROG6221POE.csproj --no-build --verbosity normal
     
